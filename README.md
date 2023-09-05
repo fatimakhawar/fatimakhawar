@@ -1,4 +1,7 @@
-### Hi there 👋
+### f.r.k. 
+_I am a senior at The University of Texas at Austin interested in Psychology, Data Science, Diversity/Inclusion, and Child Development_ 
+
+🌱 I enjoy working on quantitative and qualitative research and analysis, and exploring questions related to human behavior. In my career, I hope to become an educator and resource for my community. Using an interdisciplinary approach to Psychology, Child Development, and Data Science, I would like to further inclusivity in research. 
 
 <!--
 **fatimakhawar/fatimakhawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
